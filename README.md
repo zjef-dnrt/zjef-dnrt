@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://app.daily.dev/Tjeeef"><img src="https://github.com/Tjeef/Tjeef/blob/main/devcard.svg" width="285" alt="Zjef Audeneart's Dev Card"/></a></p>
   <br />
-  <p align="center">I'm a <b>Front-end developer</b> located in Belgium with <b>3 years of experience</b>. My main language is Javascript. I love to work with Front-end frameworks and tools for mobile and web! Reading and learning about new technologies is what keeps me busy in my spare time.</p>
+  <p align="center">I'm a <b>Front-end developer</b> located in Belgium with <b>5 years of experience</b>. My main language is Javascript. I love to work with Front-end frameworks and tools for mobile and web! Reading and learning about new technologies is what keeps me busy in my spare time.</p>
 <br />
 
 
